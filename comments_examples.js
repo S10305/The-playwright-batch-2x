@@ -11,7 +11,7 @@ let y = 10;
 */
 let z = 15;
 
-/* Nested /* comments */ are not allowed in JS */
+// Nested /* comments */ are not allowed in JS
 
 /**
  * JSDoc comment
