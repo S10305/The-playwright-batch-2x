@@ -110,6 +110,19 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 | Literals & Strings | `The playwright batch 2x/chapter_05_Literal/` |
 | Operators | `The playwright batch 2x/chapter_06_Operator/` |
 | If-Else / Conditionals | `The playwright batch 2x/chapter_07_If_else/` |
+| Leap Year Logic | `58_LEAP_YEAR.js` |
+
+### Leap Year Logic (`58_LEAP_YEAR.js`)
+
+```js
+let year = 2024;
+
+if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
+    console.log(year + " is a Leap Year");
+} else {
+    console.log(year + " is NOT a Leap Year");
+}
+```
 | Reserved Keywords | `javascript_keywords_demo.js` |
 | Identifier Rules | `identifier_rules.js` |
 | Comments | `comments_examples.js` |
