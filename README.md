@@ -111,6 +111,10 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 | Operators | `The playwright batch 2x/chapter_06_Operator/` |
 | If-Else / Conditionals | `The playwright batch 2x/chapter_07_If_else/` |
 | Leap Year Logic | `58_LEAP_YEAR.js` |
+| Reserved Keywords | `javascript_keywords_demo.js` |
+| Identifier Rules | `identifier_rules.js` |
+| Comments | `comments_examples.js` |
+| VS Code Shortcuts | `Chapter_03_identifier_Literls/VS_code_keybord_shortcut_windows.md` |
 
 ### Leap Year Logic (`58_LEAP_YEAR.js`)
 
@@ -123,10 +127,6 @@ if ((year % 4 === 0 && year % 100 !== 0) || year % 400 === 0) {
     console.log(year + " is NOT a Leap Year");
 }
 ```
-| Reserved Keywords | `javascript_keywords_demo.js` |
-| Identifier Rules | `identifier_rules.js` |
-| Comments | `comments_examples.js` |
-| VS Code Shortcuts | `Chapter_03_identifier_Literls/VS_code_keybord_shortcut_windows.md` |
 
 ## 🛠 Requirements
 
