@@ -76,6 +76,22 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 │       ├── 57_Grade_Calc.js
 │       └── 58_LEAP_YEAR.js
 │
+│   └── chapter_08_Switch_Statement/
+│       ├── 59_Switch.js
+│       ├── 60_No_Break.js
+│       ├── 61_Default.js
+│       ├── 62_REAL_TIME_EXAMPLE.js
+│       ├── 63_Switch_Group.js
+│       ├── 64_IQ.js
+│       ├── 65_IQ2.js
+│       ├── 66_IQ3.js
+│       └── 67_IQ4.js
+│
+│   └── chapter_09_UserInput/
+│       ├── 68_User_Input.js
+│       ├── 69_Node_readline.js
+│       └── 70_prompt_sync.js
+│
 ├── Chapter_03_identifier_Literls/
 │   └── VS_code_keybord_shortcut_windows.md # VS Code keyboard shortcuts reference
 │
@@ -110,6 +126,8 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 | Literals & Strings | `The playwright batch 2x/chapter_05_Literal/` |
 | Operators | `The playwright batch 2x/chapter_06_Operator/` |
 | If-Else / Conditionals | `The playwright batch 2x/chapter_07_If_else/` |
+| Switch Statements | `The playwright batch 2x/chapter_08_Switch_Statement/` |
+| User Input | `The playwright batch 2x/chapter_09_UserInput/` |
 | Leap Year Logic | `58_LEAP_YEAR.js` |
 | Reserved Keywords | `javascript_keywords_demo.js` |
 | Identifier Rules | `identifier_rules.js` |
