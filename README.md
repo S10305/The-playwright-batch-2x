@@ -92,6 +92,20 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 │       ├── 69_Node_readline.js
 │       └── 70_prompt_sync.js
 │
+│   └── chapter_10_Loops/
+│       ├── 71_For_loop.js
+│       ├── 72_For_loop.js
+│       ├── 73_For_Loop2.js
+│       ├── 74_IQ.js
+│       ├── 75_For_OF_IN_EACH.js
+│       ├── 76_While.js
+│       ├── 77_Do_While.js
+│       ├── 78_Do_While.js
+│       ├── 79_IQ.js
+│       ├── 80_IQ.js
+│       ├── 81_IQ.js
+│       └── 82_IQ.js
+│
 ├── Chapter_03_identifier_Literls/
 │   └── VS_code_keybord_shortcut_windows.md # VS Code keyboard shortcuts reference
 │
@@ -128,6 +142,7 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 | If-Else / Conditionals | `The playwright batch 2x/chapter_07_If_else/` |
 | Switch Statements | `The playwright batch 2x/chapter_08_Switch_Statement/` |
 | User Input | `The playwright batch 2x/chapter_09_UserInput/` |
+| Loops | `The playwright batch 2x/chapter_10_Loops/` |
 | Leap Year Logic | `58_LEAP_YEAR.js` |
 | Reserved Keywords | `javascript_keywords_demo.js` |
 | Identifier Rules | `identifier_rules.js` |
