@@ -63,6 +63,19 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 │       ├── 43_Incre_Decre_Op.js
 │       └── 44_Null_Op.js
 │
+│   └── chapter_07_If_else/
+│       ├── 48_IF_ESLE.js
+│       ├── 49_If_elseif_else.js
+│       ├── 50_REAL_IF_ELSE.js
+│       ├── 51_API_IF_ELSE.js
+│       ├── 52_IQ_IF_ELSE.js
+│       ├── 53_IF_ELSE_real.js
+│       ├── 54_IQ.js
+│       ├── 55_IE.js
+│       ├── 56_IQ_EVEN_ODD.js
+│       ├── 57_Grade_Calc.js
+│       └── 58_LEAP_YEAR.js
+│
 ├── Chapter_03_identifier_Literls/
 │   └── VS_code_keybord_shortcut_windows.md # VS Code keyboard shortcuts reference
 │
@@ -96,6 +109,7 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 | Scope & Hoisting | `The playwright batch 2x/chapter_04_Javascript_Concepts/` |
 | Literals & Strings | `The playwright batch 2x/chapter_05_Literal/` |
 | Operators | `The playwright batch 2x/chapter_06_Operator/` |
+| If-Else / Conditionals | `The playwright batch 2x/chapter_07_If_else/` |
 | Reserved Keywords | `javascript_keywords_demo.js` |
 | Identifier Rules | `identifier_rules.js` |
 | Comments | `comments_examples.js` |
