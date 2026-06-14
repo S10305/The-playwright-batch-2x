@@ -106,6 +106,53 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 │       ├── 81_IQ.js
 │       └── 82_IQ.js
 │
+│   └── chapter_11_Arrays/
+│       ├── 83_Arrays.js
+│       ├── 84_Arrays.js
+│       ├── 85_Access_Array.js
+│       ├── 86_Arrays_Adding_Remove.js
+│       ├── 87_Adding_Remove2.js
+│       ├── 88_REAL_Example.js
+│       ├── 89_Searching.js
+│       ├── 90_Iterate.js
+│       ├── 91_Transform_Array.js
+│       ├── 92_Arrays.js
+│       ├── 93_Array_Slicing.js
+│       ├── 94_Concat_array.js
+│       └── 95_Array_Checking.js
+│
+│   └── chapter_12_Funtions/
+│       ├── 96_Functions.js
+│       ├── 97_Type1_Fn_Basic_Functions.js
+│       ├── 98_Type2_Fn_With_Param_No_Return.js
+│       ├── 99_Type3_Fn_without_Param_Return_Type.js
+│       ├── 100_Type4_Fn_With_Param_With_Return.js
+│       ├── 101_Template_literal.js
+│       ├── 102_Fn_Expression.js
+│       ├── 103_Arrow_Fn.js
+│       ├── 104_Arrow_Fn_REAL.js
+│       ├── 105_IIFE.js
+│       ├── 106_Default_Param_Fn.js
+│       ├── 107_IQ.js
+│       ├── 108_Rest_Param_Fn.js
+│       ├── 109_IQ.js
+│       ├── 110_Spead_IQ.js
+│       ├── 111_Scope._Fn.js
+│       ├── 112_IQ.js
+│       ├── 113_Closure.js
+│       ├── 114_Closure.js
+│       ├── 115_API_REAL_Closure.js
+│       ├── 116_Higher_Order_Fn.js
+│       └── 117_Pure_Fn.js
+│
+│   └── chapter_13_Strings/
+│       ├── 118_Strings.js
+│       ├── 119_String_Properties.js
+│       ├── 120_Search_Check_Str.js
+│       ├── 121_Substring.js
+│       ├── 122_Transform_Str.js
+│       └── 123_SC.js
+│
 ├── Chapter_03_identifier_Literls/
 │   └── VS_code_keybord_shortcut_windows.md # VS Code keyboard shortcuts reference
 │
@@ -143,6 +190,9 @@ A learning repository covering JavaScript basics, identifiers, literals, and dev
 | Switch Statements | `The playwright batch 2x/chapter_08_Switch_Statement/` |
 | User Input | `The playwright batch 2x/chapter_09_UserInput/` |
 | Loops | `The playwright batch 2x/chapter_10_Loops/` |
+| Arrays | `The playwright batch 2x/chapter_11_Arrays/` |
+| Functions | `The playwright batch 2x/chapter_12_Funtions/` |
+| Strings | `The playwright batch 2x/chapter_13_Strings/` |
 | Leap Year Logic | `58_LEAP_YEAR.js` |
 | Reserved Keywords | `javascript_keywords_demo.js` |
 | Identifier Rules | `identifier_rules.js` |
